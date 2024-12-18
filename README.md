@@ -9,11 +9,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="TylerHammond | Handshake" width="22px" src="https://lorainccc.joinhandshake.com/profiles/57758944" />][handshake]
-
-[handshake]: https://lorainccc.joinhandshake.com/profiles/57758944
-
-
+[Handshake]([url](https://lorainccc.joinhandshake.com/profiles/57758944))
 
 <!--
 **tylerhammond06/tylerhammond06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
