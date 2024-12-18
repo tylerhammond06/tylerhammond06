@@ -11,6 +11,7 @@
 
 [Handshake](https://lorainccc.joinhandshake.com/profiles/57758944)
 
+[LinkedIn](https://www.linkedin.com/in/tyler-hammond-724887342/)
 <!--
 **tylerhammond06/tylerhammond06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
