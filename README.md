@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- [Vulnerability Managment Project using Nessus Essentials](https://github.com/tylerhammond06/nessus-project)
 
 <h2>📃 Certifications:</h2>
 
