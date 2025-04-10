@@ -17,6 +17,10 @@
 [Handshake](https://lorainccc.joinhandshake.com/profiles/57758944)
 
 [LinkedIn](https://www.linkedin.com/in/tyler-hammond-724887342/)
+
+<h2></h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerhammond06&layout=compact)
 <!--
 **tylerhammond06/tylerhammond06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
