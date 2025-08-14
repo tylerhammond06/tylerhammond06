@@ -1,18 +1,10 @@
-<h1>Hi, I'm Tyler! Cyber and Information Security Major at Lorain County Community College
+<h2>About Me:</h2>
 
-<h2>Scripts:</h2>
+- Interested in technology and cybersecurity
+- Into skateboarding when I have free time
+- Currently majoring in Cyber and Information Security and Lorain County Community College
 
-- [Bash Scripts](https://github.com/tylerhammond06/bashscriptlibrary)
-
-<h2>Projects:</h2>
-
-- [Vulnerability Managment Project using Nessus Essentials](https://github.com/tylerhammond06/nessus-project)
-
-<h2>Certifications:</h2>
-
-- TestOut PCPro
-
-<h2>Connect with me:</h2>
+<h2>Contact Info:</h2>
 
 [Handshake](https://lorainccc.joinhandshake.com/profiles/57758944)
 
