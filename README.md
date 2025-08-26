@@ -2,7 +2,7 @@
 
 - Interested in technology and cybersecurity
 - Into skateboarding when I have free time
-- Currently majoring in Cyber and Information Security and Lorain County Community College
+- Currently majoring in Cyber and Information Security at Lorain County Community College
 
 <h2>Contact Info:</h2>
 
